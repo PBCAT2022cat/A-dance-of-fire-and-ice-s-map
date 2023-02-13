@@ -1,5 +1,5 @@
 ﻿{
-	"pathData": "RRRRRRRRRRQRQRQRQRDRQRDDEEQRDDRUUUCZZZZZRRRRRRREEELELELELEEEELELELELELEEE", 
+	"pathData": "RRRRRRRRRRQRQRQRQRDRQRDDEEQRDDRUUUCZZZZZRRRRRRREEELELELELEEEELELELELELEEEEEELELELELELELELELELELELELELELELEEEEE", 
 	"settings":
 	{
 		"version": 3, 
@@ -88,6 +88,38 @@
 		{ "floor": 68, "eventType": "Twirl" },
 		{ "floor": 69, "eventType": "Twirl" },
 		{ "floor": 70, "eventType": "Twirl" },
-		{ "floor": 71, "eventType": "Twirl" }
+		{ "floor": 71, "eventType": "Twirl" },
+		{ "floor": 72, "eventType": "Twirl" }
+		{ "floor": 75, "eventType": "SetSpeed", "speedType": "Bpm", "beatsPerMinute": 300, "bpmMultiplier": 1 },
+		{ "floor": 76, "eventType": "Twirl" },
+		{ "floor": 77, "eventType": "Twirl" },
+		{ "floor": 78, "eventType": "Twirl" },
+		{ "floor": 79, "eventType": "Twirl" },
+		{ "floor": 80, "eventType": "Twirl" },
+		{ "floor": 81, "eventType": "Twirl" },
+		{ "floor": 82, "eventType": "Twirl" },
+		{ "floor": 83, "eventType": "Twirl" },
+		{ "floor": 84, "eventType": "Twirl" },
+		{ "floor": 85, "eventType": "Twirl" },
+		{ "floor": 86, "eventType": "Twirl" },
+		{ "floor": 87, "eventType": "Twirl" },
+		{ "floor": 88, "eventType": "Twirl" },
+		{ "floor": 89, "eventType": "Twirl" },
+		{ "floor": 90, "eventType": "Twirl" },
+		{ "floor": 91, "eventType": "Twirl" },
+		{ "floor": 92, "eventType": "Twirl" },
+		{ "floor": 93, "eventType": "Twirl" },
+		{ "floor": 94, "eventType": "Twirl" },
+		{ "floor": 95, "eventType": "Twirl" },
+		{ "floor": 96, "eventType": "Twirl" },
+		{ "floor": 97, "eventType": "Twirl" },
+		{ "floor": 98, "eventType": "Twirl" },
+		{ "floor": 99, "eventType": "Twirl" },
+		{ "floor": 100, "eventType": "Twirl" },
+		{ "floor": 101, "eventType": "Twirl" },
+		{ "floor": 102, "eventType": "Twirl" },
+		{ "floor": 103, "eventType": "Twirl" },
+		{ "floor": 104, "eventType": "Twirl" },
+		{ "floor": 105, "eventType": "Twirl" },
 	]
 }
